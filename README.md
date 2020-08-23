@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi I'm Benjamin 👋
 
-<!--
-**Benjacho/benjacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer on web ecosystem and passionate about Data Science, with experience in technologies and frameworks such as Laravel, Vue, Django, Python, Web Scrapping, ETL Process, etc.., Over +2 years of experience at private companies. Also as a freelancer.
 
-Here are some ideas to get you started:
+I love to share knowledge with the developer's community. You can find an amazing tool for laravel nova (https://github.com/Benjacho/belongs-to-many-field-nova)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also, I participated as a speaker at Open Source Events.  
+
+- 👨🏽‍🏫  I'm currently working on Thorma Web LLC building amazing products with software.
+- 🌱  I'm currently learning about Data Science.
+- 👨🏽‍💻  Working with **Laravel, Python, Data Science.
+- 📫  Reach me on [Twitter](https://twitter.com/benjachods).
+- 😄 Pronouns: he/him.
+- 🧱 Fun fact: I love videogames.
