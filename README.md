@@ -1,6 +1,6 @@
 # Hi I'm Benjamin 👋
 
-Software Engineer on web ecosystem and passionate about Data Science, with experience in technologies and frameworks such as Laravel, Vue, Django, Python, Web Scrapping, ETL Process, etc.., Over +2 years of experience at private companies. Also as a freelancer.
+Software Engineer on web ecosystem and passionate about Data Science, with experience in technologies and frameworks such as Laravel, Vue, Django, Python, Web Scrapping, ETL Process, etc.., Over +3 years of experience at private companies. Also as a freelancer.
 
 I love to share knowledge with the developer's community. You can find an amazing tool for laravel nova (https://github.com/Benjacho/belongs-to-many-field-nova)
 
