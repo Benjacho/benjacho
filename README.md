@@ -6,7 +6,7 @@ I love to share knowledge with the developer's community. You can find an amazin
 
 Also, I participated as a speaker at Open Source Events.  
 
-- 👨🏽‍🏫  I'm currently working on Square1 building amazing products with software.
+- 👨🏽‍🏫  I'm currently working on Square1 building amazing products with code.
 - 🌱  I'm currently involved in Full Stack development Laravel and Vue ecosystem.
 - 👨🏽‍💻  Working with **Laravel, Vue, Livewire, Nova, AWS.
 - 📫  Reach me on [Twitter](https://twitter.com/benjachods).
