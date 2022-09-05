@@ -1,6 +1,6 @@
 # Hi I'm Benjamin 👋
 
-Software Engineer and web enthusiast, working with Laravel and Vue.js. I love innovation and problem solving.
+Senior software engineer and web enthusiast with technical leading experience, working with Laravel and Vue.js. I love innovation and problem solving.
 
 I love to share knowledge with the developer's community. You can find an amazing tool for laravel nova (https://github.com/Benjacho/belongs-to-many-field-nova)
 
