@@ -7,8 +7,8 @@ I love to share knowledge with the developer's community. You can find an amazin
 Also, I participated as a speaker at Open Source Events.  
 
 - 👨🏽‍🏫  I'm currently working on Lemontech, promoting a modern legal world.
-- 🌱  I'm currently involved in Full Stack development, included a little bit of devops
-- 👨🏽‍💻  Working with **Laravel, PHP, Javascript, Typescript, AWS, PEST.
+- 🌱  I'm currently involved in Full Stack development, data science, and a little bit of devops
+- 👨🏽‍💻  Working with **Laravel, PHP, Javascript, Python, Typescript, AWS services.
 - 📫  Reach me on [Twitter](https://twitter.com/benjachods).
 - 😄 Pronouns: he/him.
 - 🧱 Fun fact: I like football and videogames.
