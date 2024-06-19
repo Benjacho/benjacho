@@ -2,8 +2,6 @@
 
 Senior software engineer and web enthusiast with technical leading experience, worked with Laravel, Typescript, Javascript, React, Vue, Python. I love innovation and problem solving.
 
-I love to share knowledge with the developer's community. You can find an amazing tool for laravel nova (https://github.com/Benjacho/belongs-to-many-field-nova)
-
 Also, I participated as a speaker at Open Source Events.  
 
 - 👨🏽‍🏫  I'm currently studying data science, machine learning and deep learning.
