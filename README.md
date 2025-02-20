@@ -9,4 +9,4 @@ Also, I participated as a speaker at Open Source Events.
 - 👨🏽‍💻  Working with **Laravel, PHP, Javascript, Python, Typescript, AWS services.
 - 📫  Reach me on [Twitter](https://twitter.com/benjachods).
 - 😄 Pronouns: he/him.
-- 🧱 Fun fact: I like football and videogames.
+- 🧱 Fun fact: I like football
